@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**StrappedGlint13/StrappedGlint13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About me:
 
 - 🔭 I’m currently working matrix calculations with MATLAB and writing my thesis about skinning characters. 
