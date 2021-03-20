@@ -1,10 +1,10 @@
 ### Morje! 👋
 
-About me:
+@tm:
  
 - 🌱 I’m currently studying computer science @ [University of Helsinki](https://www.helsinki.fi/en/computer-science)
-- 🔭 I’m currently learning matrix calculations with MATLAB and writing my thesis about skinning characters.
-- 🌱 I’m currently deepening my knowledge about functional programming with Haskell. 
+- 🌱 I’m currently learning matrix calculations with MATLAB and writing my thesis about skinning characters.
+- 🔭 I’m currently deepening my knowledge about functional programming with Haskell. 
 - 👯 I’m looking to collaborate on different problem solving tasks.
 - 🤔 I’m open to learn best practices. 
 - 💬 Ask me about anything.
@@ -18,7 +18,7 @@ About me:
 </a>
 
 <details open>
-<summary>:ocean: <b>ToolBox</b></summary>
+<summary>:ocean: <b>My ToolBox</b></summary>
 <p>
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
@@ -40,8 +40,13 @@ About me:
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-ebe534?style=for-the-badge&logo=pycharm&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=5DD1F5)]()
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
+[![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 </p>
 </details>
 
@@ -51,7 +56,8 @@ About me:
   
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]() 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]() 
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 </p>
 </details>
 
