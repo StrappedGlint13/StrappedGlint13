@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working matrix calculations with MATLAB and writing my thesis about skinning characters. 
+- 🔭 I’m currently working on matrix calculations with MATLAB and writing my thesis about skinning characters. 
 - 🌱 I’m currently studying computer science in the [University of Helsinki](https://www.helsinki.fi/en/computer-science)
 - 🌱 I’m currently learning functional programming with Haskell. 
 - 👯 I’m looking to collaborate on different problem solving tasks.
