@@ -50,7 +50,7 @@
 </details>
 
 <details open>
-<summary><b>Where 🧙‍♂️ like to code</b>🪄</summary>
+<summary><b>Where 🧙‍♂️ like to code</b></summary>
 <p>
   
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
