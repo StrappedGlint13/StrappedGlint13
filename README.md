@@ -6,7 +6,7 @@ About me:
 - 🌱 I’m currently studying computer science in the [University of Helsinki](https://www.helsinki.fi/en/computer-science)
 - 🌱 I’m currently learning functional programming with Haskell. 
 - 👯 I’m looking to collaborate on different problem solving tasks.
-- 🤔 I’m looking for help with doing things using best practices. 
+- 🤔 I’m open to learn best practices. 
 - 💬 Ask me about anything.
 - 📫 How to reach me: @maxBraxMB1 (telegram)
 
@@ -16,12 +16,9 @@ About me:
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StrappedGlint13">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrappedGlint13" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=StrappedGlint13">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=StrappedGlint13" />
-</a>
 
 <details open>
-<summary>:ocean: <b>Toolbox</b></summary>
+<summary>:ocean: <b>Tool box</b></summary>
 <p>
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
