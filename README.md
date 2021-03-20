@@ -18,7 +18,7 @@ About me:
 </a>
 
 <details open>
-<summary>:ocean: <b>Tool box</b></summary>
+<summary>:ocean: <b>ToolBox</b></summary>
 <p>
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
