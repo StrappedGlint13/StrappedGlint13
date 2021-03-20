@@ -22,3 +22,4 @@ About me:
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=StrappedGlint13">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=StrappedGlint13" />
 </a>
+<details open>
