@@ -1,4 +1,4 @@
-### Hi there 👋
+### Morje! 👋
 
 About me:
  
