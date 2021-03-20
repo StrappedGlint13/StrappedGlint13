@@ -18,7 +18,7 @@
 </a>
 
 <details open>
-<summary>:	🧰: <b>My ToolBox</b></summary>
+<summary>	🧰 <b>My ToolBox</b></summary>
 <p>
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
@@ -50,7 +50,7 @@
 </details>
 
 <details open>
-<summary>:🧙‍♂️: <b>Where I like to code</b></summary>
+<summary>🧙‍♂️ <b>Where I like to code</b></summary>
 <p>
   
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
