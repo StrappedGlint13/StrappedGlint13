@@ -38,7 +38,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)]()
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)]()
-[![PyCharm](https://img.shields.io/badge/PyCharm-ebe534?style=for-the-badge&logo=pycharm&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=5DD1F5)]()
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
