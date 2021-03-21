@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently studying computer science @ [University of Helsinki](https://www.helsinki.fi/en/computer-science)
 - 🌱 I’m currently learning matrix calculations with MATLAB and writing my Bachelor's Thesis about skinning characters.
-- 🔭 I’m currently deepening my knowledge about functional programming with Haskell. 
+- 🔭 I’m currently deepening my knowledge about functional programming via Haskell. 
 - 👯 I’m looking to collaborate on different problem solving tasks.
 - 🤔 I’m open to learn best practices. 
 - 💬 Ask me about anything.
