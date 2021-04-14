@@ -3,7 +3,7 @@
 @tm:
  
 - 🌱 I’m currently studying computer science @ [University of Helsinki](https://www.helsinki.fi/en/computer-science)
-- 📚 I’m currently writing my Bachelor's thesis about skinning characters and doing matrix calculations with MATLAB.
+- 📚 I’m currently writing my Bachelor's thesis about Linear Blend Skinning -algorithm and doing matrix calculations with MATLAB.
 - 🔭 I’m currently deepening my knowledge about functional programming via Haskell. 
 - 👯 I’m looking to collaborate on different problem solving tasks.
 - 🤔 I’m open to learn best practices. 
