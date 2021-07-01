@@ -14,6 +14,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StrappedGlint13&count_private=true&show_icons=trues&theme=blue-green" />
 </a>
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StrappedGlint13&theme=blue-green">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrappedGlint13&theme=blue-green" />
+</a>
+
 
 <details open>
 <summary><b>My ToolBox	🧰</b></summary>
