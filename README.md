@@ -2,13 +2,13 @@
 
 @tm:
  
-🌱 I’m currently studying computer science @ [University of Helsinki](https://www.helsinki.fi/en/computer-science)
-📚 I just finished my Bachelor's thesis writing about Linear Blend Skinning -algorithm and Software Engineering lab _Kristittyjen sinkkujen deitti_ and now I'm reloading batteries for master studies. ☀️
-🔭 I’m currently deepening my knowledge about functional programming via Haskell. 
-👯 I’m looking to collaborate on different problem solving tasks.
-🤔 I’m open to learn best practices. 
-💬 Ask me about anything.
-📫 How to reach me: @maxBraxMB1 (telegram), mb (discord)
+🌱 I’m currently studying Computer Science @ [University of Helsinki](https://www.helsinki.fi/en/computer-science) <br />
+📚 I just finished my Bachelor's thesis writing about Linear Blend Skinning -algorithm and Software Engineering lab _Kristittyjen sinkkujen deitti_ and now I'm reloading batteries for master studies. ☀️ <br />
+🔭 I’m currently deepening my knowledge about functional programming via Haskell.  <br />
+👯 I’m looking to collaborate on different problem solving tasks. <br />
+🤔 I’m open to learn best practices.  <br />
+💬 Ask me about anything. <br />
+📫 How to reach me: @maxBraxMB1 (Telegram), mb (Discord)
 
 <a href="https://github-readme-stats.vercel.app/api?username=StrappedGlint13&count_private=true&show_icons=trues&theme=blue-green">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StrappedGlint13&count_private=true&show_icons=trues&theme=blue-green" />
