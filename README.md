@@ -13,15 +13,14 @@
 <a href="https://github-readme-stats.vercel.app/api?username=StrappedGlint13&count_private=true&show_icons=trues&theme=blue-green">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StrappedGlint13&count_private=true&show_icons=trues&theme=blue-green" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StrappedGlint13&theme=blue-green">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrappedGlint13&theme=blue-green" />
-</a>
+
 
 <details open>
 <summary><b>My ToolBox	🧰</b></summary>
 <p>
-  
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]() 
+
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)]()
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
@@ -37,6 +36,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)]()
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)]()
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 [![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=5DD1F5)]()
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
