@@ -3,7 +3,7 @@
 @tm:
  
 🌱 I’m currently studying Computer Science @ [University of Helsinki](https://www.helsinki.fi/en/computer-science) <br />
-📚 I’m starting my master studies deepening my knowledge with software architectures, network services and systems and dockers.  <br />
+📚 I’m starting my master studies deepening my knowledge on software architectures, network services and systems and dockers.  <br />
 👯 I’m looking to collaborate on different problem solving tasks. <br />
 🤔 I’m open to learn best practices.  <br />
 💬 Ask me about anything. <br />
