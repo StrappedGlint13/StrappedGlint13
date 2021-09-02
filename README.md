@@ -4,7 +4,7 @@
  
 🌱 I’m currently studying Computer Science @ [University of Helsinki](https://www.helsinki.fi/en/computer-science) <br />
 📚 I just finished my Bachelor's thesis writing about Linear Blend Skinning -algorithm and Software Engineering lab _Kristittyjen sinkkujen deitti_ and now I'm reloading batteries for master studies. ☀️ <br />
-🔭 I’m currently deepening my knowledge about functional programming via Haskell.  <br />
+🔭 I’m currently starting my master studies  <br />
 👯 I’m looking to collaborate on different problem solving tasks. <br />
 🤔 I’m open to learn best practices.  <br />
 💬 Ask me about anything. <br />
