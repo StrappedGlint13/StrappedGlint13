@@ -3,10 +3,8 @@
 @tm:
  
 🌱 I’m currently studying Computer Science @ [University of Helsinki](https://www.helsinki.fi/en/computer-science) <br />
-📚 I’m starting my master studies deepening my knowledge on software architectures, big data platforms, dockers and mobile frameworks via react native.  <br />
 👯 I’m looking to collaborate on different problem solving tasks. <br />
 🤔 I’m open to learn best practices.  <br />
-💬 Ask me about anything. <br />
 📫 How to reach me: @maxBraxMB1 (Telegram), mb (Discord)
 
 <a href="https://github-readme-stats.vercel.app/api?username=StrappedGlint13&count_private=true&show_icons=trues&theme=blue-green">
@@ -19,9 +17,11 @@
 
 
 <details open>
-<summary><b>Stuff I have experience	🧰</b></summary>
+<summary><b>Some of stuff I have experience	🧰</b></summary>
 <p>
-[!Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+ 
+ 
+[![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
