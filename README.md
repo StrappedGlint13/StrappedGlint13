@@ -2,7 +2,7 @@
 
 @tm:
  
-🌱 I’m currently studying Computer Science @ [University of Helsinki](https://www.helsinki.fi/en/computer-science) <br />
+🌱 I’m currently studying in Computer Science Master's programme @ [University of Helsinki](https://www.helsinki.fi/en/computer-science) <br />
 👯 I’m looking to collaborate on different problem solving tasks. <br />
 🤔 I’m open to learn best practices.  <br />
 📫 How to reach me: @maxBraxMB1 (Telegram), mb (Discord)
