@@ -1,7 +1,7 @@
 ### Morje! 👋
 
 @tm:
- 
+
 🌱 I’m currently studying in Computer Science Master's programme @ [University of Helsinki](https://www.helsinki.fi/en/computer-science) <br />
 👯 I’m looking to collaborate on different problem solving tasks. <br />
 🤔 I’m open to learn best practices.  <br />
@@ -19,10 +19,11 @@
 <details open>
 <summary><b>Some of stuff I have experience	🧰</b></summary>
 <p>
- 
- 
+
+
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)]()
@@ -58,11 +59,11 @@
 <details open>
 <summary><b>Where 🧙‍♂️ like to code & interact ✨ </b></summary>
 <p>
-  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]() 
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]()
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]()
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
 </p>
 </details>
